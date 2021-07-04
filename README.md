@@ -10,5 +10,5 @@ I'm a research scientist at the Center for Nanophase Materials Sciences of Oak R
 ### My Recent Papers 📜
 - Ensemble learning-iterative training machine learning for uncertainty quantification and automated experiment in atom-resolved microscopy. npj Comput Mater 7, 100 (2021). https://doi.org/10.1038/s41524-021-00569-7
 - Exploring order parameters and dynamic processes in disordered systems via variational autoencoders. Science Advances 7, eabd5084 (2021). https://doi.org/10.1126/sciadv.abd5084
-- Predictability as a probe of manifest and latent physics: The case of atomic scale structural, chemical, and polarization behaviors in multiferroic Sm-doped BiFeO3. Applied Physics Reviews 8, 011403 (2021). https://doi.org/10.1063/5.0016792.
+- Predictability as a probe of manifest and latent physics: The case of atomic scale structural, chemical, and polarization behaviors in multiferroic Sm-doped BiFeO3. Applied Physics Reviews 8, 011403 (2021). https://doi.org/10.1063/5.0016792
 - *See the full list [here](https://scholar.google.com/citations?hl=en&user=YnSdOoUAAAAJ&view_op=list_works&sortby=pubdate)*
