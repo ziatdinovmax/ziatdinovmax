@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a research scientist at the Center for Nanophase Materials Sciences of Oak Ridge National Laboratory. My research is directed primarily toward the synergy of the experiment, theory, and machine learning for accelerated discoveries in the fields of materials science and nanoscience. I am also interested in the development of the machine learning-enabled “smart” automation of imaging and spectroscopic instrumentation. I received my Ph.D. in materials science and engineering from the Tokyo Institute of Technology in 2014, followed by a postdoctoral appointment at the Oak Ridge National Laboratory.
+I'm a research scientist at the Center for Nanophase Materials Sciences of Oak Ridge National Laboratory where I work at the intersection of experimental physics and machine learning to accelerate discoveries of new materials. I am also interested in the development of the machine learning-enabled “smart” automation of imaging and spectroscopic instrumentation. I received my Ph.D. in materials science and engineering from the Tokyo Institute of Technology in 2014, followed by a postdoctoral appointment at the Oak Ridge National Laboratory.
 
 ### My Latest Blog Posts 📖:
 - [Mastering the shifts with variational autoencoders](https://towardsdatascience.com/mastering-the-shifts-with-variational-autoencoders-ca609ec84f1)
