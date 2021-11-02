@@ -3,10 +3,10 @@
 I'm a research scientist at the Center for Nanophase Materials Sciences of Oak Ridge National Laboratory where I work at the intersection of experimental physics and machine learning to accelerate discoveries of new materials. I am also very interested in the development of the machine learning-enabled “smart” automation of imaging and spectroscopic instrumentation. I received my Ph.D. in materials science and engineering from the Tokyo Institute of Technology in 2014, followed by a 3-year postdoctoral appointment at the Oak Ridge National Laboratory.
 
 ### My Latest Blog Posts 📖:
+- [Deep Learning Meets Gaussian Process: How Deep Kernel Learning Enables Autonomous Microscopy](https://ziatdinovmax.medium.com/deep-learning-meets-gaussian-process-how-deep-kernel-learning-enables-autonomous-microscopy-58106574cfeb)
 - [Gaussian Process: First Step Towards Active Learning in Physics](https://ziatdinovmax.medium.com/gaussian-process-first-step-towards-active-learning-in-physics-239a8b260579)
 - [Mastering the shifts with variational autoencoders](https://towardsdatascience.com/mastering-the-shifts-with-variational-autoencoders-ca609ec84f1)
 - [Enter the j(r)VAE: divide, (rotate), and order… the cards](https://towardsdatascience.com/enter-the-j-r-vae-divide-rotate-and-order-the-cards-9d10c6633726)
-- [How we learnt to love the rotationally invariant variational autoencoders (rVAE), and (almost) stopped doing PCA](https://towardsdatascience.com/how-we-learnt-to-love-the-rotationally-invariant-variational-autoencoders-rvae-and-almost-562aa164c59f)
 
 ### My Recent Papers 📜
 - Autonomous Experiments in Scanning Probe Microscopy and Spectroscopy: Choosing Where to Explore Polarization Dynamics in Ferroelectrics. ACS Nano 15, 11253–11262 (2021). https://doi.org/10.1021/acsnano.0c10239
