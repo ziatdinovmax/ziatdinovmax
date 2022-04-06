@@ -9,7 +9,7 @@ I'm a research scientist at the Center for Nanophase Materials Sciences of Oak R
 - [Mastering the shifts with variational autoencoders](https://towardsdatascience.com/mastering-the-shifts-with-variational-autoencoders-ca609ec84f1)
 
 ### My Recent Papers 📜
+- Experimental discovery of structure–property relationships in ferroelectric materials via active learning. Nature Machine Intelligence (2022). https://doi.org/10.1038/s42256-022-00460-0
 - Autonomous Experiments in Scanning Probe Microscopy and Spectroscopy: Choosing Where to Explore Polarization Dynamics in Ferroelectrics. ACS Nano 15, 11253–11262 (2021). https://doi.org/10.1021/acsnano.0c10239
-- Ensemble learning-iterative training machine learning for uncertainty quantification and automated experiment in atom-resolved microscopy. *npj Comput Mater* 7, 100 (2021). https://doi.org/10.1038/s41524-021-00569-7
 - Exploring order parameters and dynamic processes in disordered systems via variational autoencoders. *Science Advances* 7, eabd5084 (2021). https://doi.org/10.1126/sciadv.abd5084
 - *See the full list [here](https://scholar.google.com/citations?hl=en&user=YnSdOoUAAAAJ&view_op=list_works&sortby=pubdate)*
