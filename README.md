@@ -10,6 +10,7 @@ I'm a research scientist at the Center for Nanophase Materials Sciences of Oak R
 
 ### My Recent Papers 📜
 - Experimental discovery of structure–property relationships in ferroelectric materials via active learning. *Nature Machine Intelligence* (2022). https://doi.org/10.1038/s42256-022-00460-0
+- Hypothesis Learning in Automated Experiment: Application to Combinatorial Materials Libraries. *Advanced Materials* 2201345 (2022). https://doi.org/10.1002/adma.202201345
 - Autonomous Experiments in Scanning Probe Microscopy and Spectroscopy: Choosing Where to Explore Polarization Dynamics in Ferroelectrics. *ACS Nano* 15, 11253–11262 (2021). https://doi.org/10.1021/acsnano.0c10239
 - Exploring order parameters and dynamic processes in disordered systems via variational autoencoders. *Science Advances* 7, eabd5084 (2021). https://doi.org/10.1126/sciadv.abd5084
 - *See the full list [here](https://scholar.google.com/citations?hl=en&user=YnSdOoUAAAAJ&view_op=list_works&sortby=pubdate)*
