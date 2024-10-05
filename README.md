@@ -9,8 +9,8 @@ My expertise lies in designing and implementing custom machine learning solution
 - [Mastering the shifts with variational autoencoders](https://towardsdatascience.com/mastering-the-shifts-with-variational-autoencoders-ca609ec84f1)
 
 ### My Recent Papers 📜
-- Experimental discovery of structure–property relationships in ferroelectric materials via active learning. *Nature Machine Intelligence* (2022). https://doi.org/10.1038/s42256-022-00460-0
-- Probing Electron Beam Induced Transformations on a Single-Defect Level via Automated Scanning Transmission Electron Microscopy. *ACS Nano* (2022). https://doi.org/10.1021/acsnano.2c07451
-- From atomically resolved imaging to generative and causal models. *Nature Physics* (2022). https://doi.org/10.1038/s41567-022-01666-0
-- Hypothesis Learning in Automated Experiment: Application to Combinatorial Materials Libraries. *Advanced Materials* 2201345 (2022). https://doi.org/10.1002/adma.202201345
-- *See the full list [here](https://scholar.google.com/citations?hl=en&user=YnSdOoUAAAAJ&view_op=list_works&sortby=pubdate)*
+- "Dynamic STEM-EELS for Single-Atom and Defect Measurement During Electron Beam Transformations." **Science Advances** (2024). https://doi.org/10.1126/sciadv.adn5899. *Contribution: Developed a deep learning-based rapid object detection and action system (RODAS) and oversaw its implementation on multi-million-dollar electron microscope.*
+- "Experimental Discovery of Structure–Property Relationships in Ferroelectric Materials via Active Learning." **Nature Machine Intelligence** (2022). https://doi.org/10.1038/s42256-022-00460-0. *Contribution: Developed an automated workflow for active learning of the relationship between local structures and physical properties in multi-modal experiments.*
+- "From Atomically Resolved Imaging to Generative and Causal Models." **Nature Physics** (2022). https://doi.org/10.1038/s41567-022-01666-0. *Contribution: Introduced AI-driven extraction of domain-specific information from microscopy data for building generative models over a broader parameter space and exploring causal mechanisms underpinning functionalities.*
+- "Hypothesis Learning in Automated Experiment: Application to Combinatorial Materials Libraries." **Advanced Materials** (2022). https://doi.org/10.1002/adma.202201345. *Contribution: Developed an active hypothesis learning approach based on co-navigation of the hypothesis and experimental spaces in automated experiments, allowing physics discovery via active learning of competing hypotheses.*
+- See the full list [here](https://scholar.google.com/citations?hl=en&user=YnSdOoUAAAAJ&view_op=list_works&sortby=pubdate)
