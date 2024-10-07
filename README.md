@@ -15,5 +15,5 @@ My expertise lies in designing and implementing custom machine learning solution
 - "Hypothesis Learning in Automated Experiment: Application to Combinatorial Materials Libraries." [**Advanced Materials (2022)**](https://doi.org/10.1002/adma.202201345). *Contribution: Developed an active hypothesis learning approach based on co-navigation of the hypothesis and experimental spaces in automated experiments, allowing physics discovery via active learning of competing hypotheses.*
 - See the full list [here](https://scholar.google.com/citations?hl=en&user=YnSdOoUAAAAJ&view_op=list_works&sortby=pubdate)
 
-  ### My Recent Patents 💡
+### My Recent Patents 💡
 - Ziatdinov, Maxim A., et al. "Science-driven automated experiments." U.S. Patent No. 11,982,684. 14 May 2024.
